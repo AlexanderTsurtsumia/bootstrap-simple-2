@@ -1,0 +1,7 @@
+*{
+    box-sizing: border-box;
+}
+.box {
+    height: 297px;
+    background-color: hsla(0, 31%, 37%, 1);
+}
